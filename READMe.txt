@@ -1,0 +1,1 @@
+#Repo used initially for regularly using git commands and storing scripts I use while I learn more python.
